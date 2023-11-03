@@ -1,0 +1,6 @@
+isitcancelledyet
+*.json
+*.png
+*.csv
+.env
+.env.local
